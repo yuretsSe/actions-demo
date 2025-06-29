@@ -20,5 +20,5 @@ jobs:
         
       - name: Run bash script
         run: |
-          chmod +x ./actions-demo/hello.sh
-            ./actions-demo/hello.sh
+          chmod +x ./hello.sh
+          ./hello.sh
